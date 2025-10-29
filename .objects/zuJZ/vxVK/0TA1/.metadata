@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Course Complete UiPath RPA Developer C",
+  "Type": "Screen",
+  "Id": "0TA1nk4NZkGuITW_l2pD9A",
+  "Reference": "tXiE_XMUGU2jKSIBBAJCLQ/0TA1nk4NZkGuITW_l2pD9A",
+  "ParentRef": "tXiE_XMUGU2jKSIBBAJCLQ/vxVK2hl0aUSTHXaeTQLvAA",
+  "Created": "2025-10-29T06:22:57.9869995Z",
+  "Updated": "2025-10-29T06:22:57.9869995Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

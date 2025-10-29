@@ -1,0 +1,13 @@
+﻿{
+  "Name": "MyFirstRobot.txt - Notepad",
+  "Type": "Screen",
+  "Id": "38h_8KSSIUWlMwjFDOSxrg",
+  "Reference": "tXiE_XMUGU2jKSIBBAJCLQ/38h_8KSSIUWlMwjFDOSxrg",
+  "ParentRef": "tXiE_XMUGU2jKSIBBAJCLQ/vxVK2hl0aUSTHXaeTQLvAA",
+  "Created": "2025-10-29T06:27:49.9721583Z",
+  "Updated": "2025-10-29T06:27:49.9721583Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

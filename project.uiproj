@@ -1,0 +1,6 @@
+{
+  "Name": "MyFirstRobot",
+  "ProjectType": "Process",
+  "Description": "Open Note pad And type text into it",
+  "MainFile": "Main.xaml"
+}
